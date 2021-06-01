@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Examplescroll</string>
+    <string name="head">Android</string>
+    <string name="shead">Introduction to Android</string>
+    <string name="thead">History of Android</string>
+    <string name="text">Android is an operating system and programming platform developed by Google for mobile phones and other mobile devices, such as tablets. It can run on many different devices from many different manufacturers. Android includes a software development kit (SDK) that helps you write original code and assemble software modules to create apps for Android users. Android also provides a marketplace to distribute apps. All together, Android represents an ecosystem for mobile apps.
+    <br>Go straight to the stuff that matters you the most.Because android 11 is optomized for how you use it</br>
+        <br>My mail id is rishithapcse.gist@gmail.com</br>
+        <br>My number is 919398995547</br>
+    </string>
+
+</resources>
